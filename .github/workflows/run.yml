@@ -19,6 +19,6 @@ jobs:
         github_token: ${{ secrets.GH_TOKEN }}
         empty: true
         message: "Auto Commit"
-        author_email: "jgoel92@gmail.com"
-        author_name: "Jayant Goel"
-        branch: "master"
+        author_email: "krishchoudhary2126@gmail.com"
+        author_name: "Krishna Choudhary"
+        branch: "main"
