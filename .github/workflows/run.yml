@@ -21,4 +21,4 @@ jobs:
         message: "Auto Commit"
         author_email: "krishchoudhary2126@gmail.com"
         author_name: "Krishna Choudhary"
-        branch: "main"
+        branch: "master"
