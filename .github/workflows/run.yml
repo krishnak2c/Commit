@@ -18,7 +18,7 @@ jobs:
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         empty: true
-        message: "Auto Commit"
+        message: "Added and deleted files"
         author_email: "krishchoudhary2126@gmail.com"
         author_name: "Krishna Choudhary"
         branch: "master"
